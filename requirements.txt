@@ -1,0 +1,7 @@
+scipy
+matplotlib
+numpy
+ultralytics
+colorthief
+opencv-python
+cvzone
